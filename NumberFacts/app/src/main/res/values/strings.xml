@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Number Facts</string>
+    <string-array name="strTypes">
+        <item>math</item>
+        <item>year</item>
+        <item>trivia</item>
+    </string-array>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">MPJNo4lgVXbXGrRHzkONRmQs9</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">hbgBfh1nGwlYM4WPxARZ2AnsiOhNWK45T0jFKt1fDrYRzEfAvR</string>
+    <string name="facebook_app_id">124803128157872</string>
+</resources>
